@@ -8,10 +8,16 @@ namespace l_aventure_des_chapeau_de_paille
 {
     class Program
     {
-        static void Main(string[] args) 
-        {
+
+        static void AfficherPersonnage()
+          {
 
             Console.WriteLine("Luffy et zoro sont de très bon amis de dans l'équipage au chapeau de paille, mais les deux amis cherchent à faire une compétition amicale pour trouver le one piece le premier.luffy et zoro cherchent un consseiller pour leur aventure. quel personnage voulez vous accompagner ? écrivez '1' pour acompagner luffy et écrivez '2' pour acompagner zoro");
+          }
+            static void Main(string[] args) 
+        {
+
+            AfficherPersonnage();
             int conseil = 0;
             int adversaire = 0;
             int personnage = 0;

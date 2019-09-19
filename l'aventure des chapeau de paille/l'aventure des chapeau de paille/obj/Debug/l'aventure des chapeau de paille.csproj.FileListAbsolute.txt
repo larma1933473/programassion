@@ -5,3 +5,10 @@ M:\visual studio 2017\Projects\l'aventure des chapeau de paille\l'aventure des c
 M:\visual studio 2017\Projects\l'aventure des chapeau de paille\l'aventure des chapeau de paille\bin\Debug\l'aventure des chapeau de paille.pdb
 M:\visual studio 2017\Projects\l'aventure des chapeau de paille\l'aventure des chapeau de paille\obj\Debug\l'aventure des chapeau de paille.exe
 M:\visual studio 2017\Projects\l'aventure des chapeau de paille\l'aventure des chapeau de paille\obj\Debug\l'aventure des chapeau de paille.pdb
+C:\Users\larma1933473\Source\Repos\larma1933473\programassion\l'aventure des chapeau de paille\l'aventure des chapeau de paille\obj\Debug\l'aventure des chapeau de paille.csprojAssemblyReference.cache
+C:\Users\larma1933473\Source\Repos\larma1933473\programassion\l'aventure des chapeau de paille\l'aventure des chapeau de paille\obj\Debug\l'aventure des chapeau de paille.csproj.CoreCompileInputs.cache
+C:\Users\larma1933473\Source\Repos\larma1933473\programassion\l'aventure des chapeau de paille\l'aventure des chapeau de paille\obj\Debug\l'aventure des chapeau de paille.exe
+C:\Users\larma1933473\Source\Repos\larma1933473\programassion\l'aventure des chapeau de paille\l'aventure des chapeau de paille\obj\Debug\l'aventure des chapeau de paille.pdb
+C:\Users\larma1933473\Source\Repos\larma1933473\programassion\l'aventure des chapeau de paille\l'aventure des chapeau de paille\bin\Debug\l'aventure des chapeau de paille.exe.config
+C:\Users\larma1933473\Source\Repos\larma1933473\programassion\l'aventure des chapeau de paille\l'aventure des chapeau de paille\bin\Debug\l'aventure des chapeau de paille.exe
+C:\Users\larma1933473\Source\Repos\larma1933473\programassion\l'aventure des chapeau de paille\l'aventure des chapeau de paille\bin\Debug\l'aventure des chapeau de paille.pdb
